@@ -2,7 +2,7 @@ class ClassA
 {
 public static void main(String[] args)
 {
-  int a[]=new int[]{1,2,7,1},count=0;
+  int a[]=new int[]{1,2,7,1},count=0,k=0;
    boolean b[]=new boolean[a.length];
   for(int x=0;x<a.length;x++)
   {   
